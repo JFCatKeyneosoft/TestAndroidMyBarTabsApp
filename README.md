@@ -2,7 +2,13 @@
 
 ######Learn to develop
 
-Just create new app for Android device with template :
+Just create new app for Android device with template : 
+
+######play with number of view
+
+######play with string for tab's name
+
+######play with default tab's view 
 
 ######Add continuous integration 
 see https://GitHub.com/JFCatKeyneosoft/TestAndroidMyBarTabsApp/
@@ -15,8 +21,8 @@ see https://GitHub.com/JFCatKeyneosoft/TestAndroidMyBarTabsApp/
 
 ##States of Projet
 
-[![Build Status](https://travis-ci.org/JFCatKeyneosoft/TestAndroidMyFirstApp.svg?branch=master)](https://travis-ci.org/JFCatKeyneosoft/TestAndroidMyFirstApp)
-[![Build Status](http://img.shields.io/coveralls/JFCatKeyneosoft/TestAndroidMyFirstApp.svg?)](https://coveralls.io/GitHub/JFCatKeyneosoft/TestAndroidMyFirstApp)
+[![Build Status](https://travis-ci.org/JFCatKeyneosoft/TestAndroidMyBarTabsApp.svg?branch=master)](https://travis-ci.org/JFCatKeyneosoft/TestAndroidMyBarTabsApp)
+[![Build Status](http://img.shields.io/coveralls/JFCatKeyneosoft/TestAndroidMyBarTabsApp.svg?)](https://coveralls.io/GitHub/JFCatKeyneosoft/TestAndroidMyBarTabsApp)
 
 ## Platform and Languages
 ![Platform Status](https://img.shields.io/badge/platform-Android-lightgray.svg)
