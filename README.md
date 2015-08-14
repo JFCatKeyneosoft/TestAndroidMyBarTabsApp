@@ -11,7 +11,7 @@ see https://GitHub.com/JFCatKeyneosoft/TestAndroidMyBarTabsApp/
 ![Licence Status](https://img.shields.io/badge/Author-Jean--François%20CONTART-purple.svg)
 
 ##Original Path 
-[![Path](https://img.shields.io/badge/GitHub-TestAndroidMyFirstApp-ff4488.svg)](https://GitHub.com/JFCatKeyneosoft/TestAndroidMyFirstApp/)
+[![Path](https://img.shields.io/badge/GitHub-TestAndroidMyBarTabsApp-ff4488.svg)](https://GitHub.com/JFCatKeyneosoft/TestAndroidMyBarTabsApp/)
 
 ##States of Projet
 
